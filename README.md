@@ -118,7 +118,14 @@ lib/
 
 ## Screenshot
 
-*(tambahkan screenshot setelah menjalankan aplikasi)*
+### Login Screen
+![Login](screenshots/login.png)
+
+### Forgot Password Screen
+![Forgot Password](screenshots/forgot_password.png)
+
+### Dashboard Screen
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
