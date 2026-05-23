@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter UTS App — Mobile Programming
 
 Aplikasi Flutter 3 halaman untuk UTS Mobile Programming. Mengimplementasikan materi Pertemuan 1–5.
@@ -130,3 +131,7 @@ git commit -m "feat: implement login screen with form validation"
 git commit -m "feat: add forgot password screen with SnackBar feedback"
 git commit -m "feat: implement dashboard with ListView and logout flow"
 ```
+=======
+# flutter_uts
+UTS Mobile Programming Flutter
+>>>>>>> 168bcf2591b70a7f2b7454f260a6cea2a5546cdc
